@@ -1,0 +1,11 @@
+.card {
+  padding: 13px;
+  display: flex;
+  justify-content: center;
+}
+.card2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+  padding-top: 100px;
+}
